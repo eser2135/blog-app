@@ -196,7 +196,7 @@ export default function PrimarySearchAppBar() {
           <div className={classes.grow} />
           <Link to="/" className={classes.login}>
             <Typography className={classes.title} variant="h6" noWrap>
-              ──── <span>{"<ed8en/>"}</span> Blog ────
+              ──── <span>{"<Eser/>"}</span> Blog ────
             </Typography>
           </Link>
           <div className={classes.grow} />
